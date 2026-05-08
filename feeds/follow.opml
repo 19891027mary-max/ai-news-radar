@@ -1,0 +1,171 @@
+<details>
+<summary>
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+ <head>
+ <title>AI Signal Board - 懂王 RSS</title>
+ <ownerName>超级鳌虾</ownerName>
+ <ownerEmail></ownerEmail>
+ </head>
+ <body>
+
+ <!-- 🔴 高信号·AI官方 & 研究 -->
+ <outline text="AI 官方与研究">
+ <outline
+ text="Hugging Face Blog"
+ title="Hugging Face Blog"
+ type="rss"
+ xmlUrl="https://huggingface.co/blog/feed.xml"
+ htmlUrl="https://huggingface.co/blog"
+ />
+ <outline
+ text="Anthropic News"
+ title="Anthropic News"
+ type="rss"
+ xmlUrl="https://www.anthropic.com/news/rss.xml"
+ htmlUrl="https://www.anthropic.com/news"
+ />
+ <outline
+ text="Google DeepMind Blog"
+ title="Google DeepMind Blog"
+ type="rss"
+ xmlUrl="https://deepmind.google/blog/rss.xml"
+ htmlUrl="https://deepmind.google/blog"
+ />
+ <outline
+ text="Google AI Blog"
+ title="Google AI Blog"
+ type="rss"
+ xmlUrl="https://blog.google/innovation-and-ai/technology/ai/rss/"
+ htmlUrl="https://blog.google/innovation-and-ai/technology/ai/"
+ />
+ <outline
+ text="OpenAI News"
+ title="OpenAI News"
+ type="rss"
+ xmlUrl="https://openai.com/news/rss.xml"
+ htmlUrl="https://openai.com/news"
+ />
+ <outline
+ text="AI Breakfast"
+ title="AI Breakfast"
+ type="rss"
+ xmlUrl="https://buttondown.email/AI-Breakfast/rss"
+ htmlUrl="https://buttondown.email/AI-Breakfast"
+ />
+ <outline
+ text="The Batch (Andrew Ng)"
+ title="The Batch"
+ type="rss"
+ xmlUrl="https://www.deeplearning.ai/the-batch/rss/"
+ htmlUrl="https://www.deeplearning.ai/the-batch"
+ />
+ <outline
+ text="OpenAI Blog"
+ title="OpenAI Blog"
+ type="rss"
+ xmlUrl="https://openai.com/blog/rss.xml"
+ htmlUrl="https://openai.com/blog"
+ />
+ </outline>
+
+ <!-- 🟡 中信号·开发者 & 产品 -->
+ <outline text="开发者工具 & 产品发布">
+ <outline
+ text="GitHub Trending (Python)"
+ title="GitHub Trending Python"
+ type="rss"
+ xmlUrl="https://github.com/trending?since=daily&amp;l=python"
+ htmlUrl="https://github.com/trending?l=python"
+ />
+ <outline
+ text="GitHub Trending (JS)"
+ title="GitHub Trending JavaScript"
+ type="rss"
+ xmlUrl="https://github.com/trending?since=daily&amp;l=javascript"
+ htmlUrl="https://github.com/trending?l=javascript"
+ />
+ <outline
+ text="Product Hunt"
+ title="Product Hunt Trending"
+ type="rss"
+ xmlUrl="https://rsshub.app/producthunt/trending"
+ htmlUrl="https://www.producthunt.com"
+ />
+ <outline
+ text="Dev.to"
+ title="Dev.to"
+ type="rss"
+ xmlUrl="https://dev.to/feed"
+ htmlUrl="https://dev.to"
+ />
+ <outline
+ text="Lobsters"
+ title="Lobsters"
+ type="rss"
+ xmlUrl="https://lobste.rs/rss"
+ htmlUrl="https://lobste.rs"
+ />
+ </outline>
+
+ <!-- 🟢 设计 & 体验 -->
+ <outline text="设计 & 体验">
+ <outline
+ text="UX Collective"
+ title="UX Collective"
+ type="rss"
+ xmlUrl="https://uxdesign.cc/feed"
+ htmlUrl="https://uxdesign.cc"
+ />
+ <outline
+ text="Smashing Magazine"
+ title="Smashing Magazine"
+ type="rss"
+ xmlUrl="https://www.smashingmagazine.com/feed/"
+ htmlUrl="https://www.smashingmagazine.com"
+ />
+ <outline
+ text="Figma Blog"
+ title="Figma Blog"
+ type="rss"
+ xmlUrl="https://blog.figma.com/feed"
+ htmlUrl="https://blog.figma.com"
+ />
+ <outline
+ text="Google Design"
+ title="Google Design"
+ type="rss"
+ xmlUrl="https://design.google/blog/rss/"
+ htmlUrl="https://design.google"
+ />
+ </outline>
+
+ <!-- 🔵 中文科技 & 工具 -->
+ <outline text="中文科技 & 工具">
+ <outline
+ text="少数派 Matrix"
+ title="少数派 Matrix"
+ type="rss"
+ xmlUrl="https://rsshub.app/sspai/matrix"
+ htmlUrl="https://sspai.com"
+ />
+ <outline
+ text="InfoQ CN"
+ title="InfoQ CN"
+ type="rss"
+ xmlUrl="https://www.infoq.cn/feed"
+ htmlUrl="https://www.infoq.cn"
+ />
+ <outline
+ text="36kr 科技"
+ title="36kr 科技"
+ type="rss"
+ xmlUrl="https://36kr.com/feed"
+ htmlUrl="https://36kr.com"
+ />
+ </outline>
+
+ </body>
+</opml>
+</summary>
+</details>
