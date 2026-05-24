@@ -16911,5 +16911,21 @@
   "When your AI CEO Lies about the Numbers": "当你的人工智能首席执行官对数字撒谎时",
   "Data Centers Now Consume 6% of US Electricity–and the Backlash Has Begun": "数据中心现在消耗美国 6% 的电力——强烈反对已经开始",
   "-​-dangerously-skip-reading-code": "-​-危险地跳过阅读代码",
-  "Students Create a Self-Balancing, Self-Driving Bicycle": "学生们创造了一辆自平衡、自动驾驶自行车"
+  "Students Create a Self-Balancing, Self-Driving Bicycle": "学生们创造了一辆自平衡、自动驾驶自行车",
+  "A note on building reliability infrastructure for AI agents and why post-incident debugging matters more than pre-flight validation.": "关于为人工智能代理构建可靠性基础设施以及为什么事件后调试比飞行前验证更重要的说明。",
+  "Claude Code vs Cursor AI: Which Should You Use in 2026?": "Claude Code 与 Cursor AI：2026 年你应该使用哪个？",
+  "Introducing QAC: a commit message specification for AI agents": "QAC 简介：AI 代理的提交消息规范",
+  "The Developer's Guide to Picking the Right AI Code Model in 2026 (I Spent $500 So You Don’t Have To)": "2026 年选择正确 AI 代码模型的开发人员指南（我花了 500 美元，所以你不必这样做）",
+  "DeepSeek vs Qwen vs Kimi vs GLM: Which AI API Actually Wins in 2026? (A Cost-Optimizer’s Verdict)": "DeepSeek vs Qwen vs Kimi vs GLM：哪个 AI API 在 2026 年真正获胜？ （成本优化者的结论）",
+  "Bun.Image": "包子图像",
+  "Polsia raised $30M; source map: fake ARR, dead users, god-mode over your company": "Polsia 筹集了 3000 万美元；源图：假 ARR、死用户、上帝模式控制你的公司",
+  "For publishers, pirated audiobooks made with AI on YouTube are a growing issue: removal is cumbersome, and some are hiring tech companies to take them down (Alexandra Alter/New York Times)": "对于出版商来说，YouTube 上使用人工智能制作的盗版有声读物是一个日益严重的问题：删除很麻烦，有些出版商正在聘请科技公司来删除它们（Alexandra Alter/纽约时报）",
+  "Toxic chemical leak at a manufacturing facility in Orange County": "奥兰治县一家制造工厂发生有毒化学品泄漏",
+  "This $70 AI tool compares answers from top models without extra subscription fees": "这款 70 美元的人工智能工具可以比较顶级模型的答案，无需额外付费",
+  "I’ve tested both of Anker's new feature-packed Soundcore earbuds, which offer everything from personalized sound to Dolby Atmos to AI translation — one is clearly better, but I’d actually recommend buying the other one": "我测试了 Anker 的两款功能齐全的新 Soundcore 耳塞，它们提供从个性化声音到杜比全景声再到人工智能翻译的一切 - 一款显然更好，但我实际上建议购买另一款",
+  "We reduced a real Node.js production Docker image from 1.2GB to 78MB": "我们将真实的 Node.js 生产 Docker 镜像从 1.2GB 减少到 78MB",
+  "Apple Preparing New 'Gen AI' Website Ahead of WWDC": "苹果在 WWDC 之前准备新的“Gen AI”网站",
+  "A self-powered computer in actual credit-card size (~1mm thick)": "实际信用卡大小（约 1 毫米厚）的自供电计算机",
+  "Ebola Outbreak Now Third Largest Recorded and \"Spreading Rapidly\"": "埃博拉疫情现已成为有记录以来第三大疫情并“迅速传播”",
+  "Malicious Postinstall Hook Found in 700 GitHub Repos, Including Node Projects": "在 700 个 GitHub 存储库（包括 Node 项目）中发现恶意 Postinstall Hook"
 }
