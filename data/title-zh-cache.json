@@ -28714,5 +28714,19 @@
   "Mathematics of Data Science": "数据科学数学",
   "EU Orders Google to Give Rival AI Apps the Same Android Access as Gemini": "欧盟命令谷歌为竞争对手的人工智能应用程序提供与 Gemini 相同的 Android 访问权限",
   "Advanced search for Projects is generally available": "项目的高级搜索已普遍可用",
-  "Google Gemini Launch Delayed as Tech Falls Short of Internal Goals": "谷歌 Gemini 发布因技术未能达到内部目标而推迟"
+  "Google Gemini Launch Delayed as Tech Falls Short of Internal Goals": "谷歌 Gemini 发布因技术未能达到内部目标而推迟",
+  "LangChain4j and Spring AI: The Plumbing to make your Java Apps talk to LLMs": "LangChain4j 和 Spring AI：让 Java 应用程序与法学硕士对话的管道",
+  "A Good AI Code Reviewer Knows When to Stay Quiet": "优秀的人工智能代码审查员知道何时保持安静",
+  "Beyond Chatbots: Wrapping My RAG Agent in an MCP Server": "超越聊天机器人：将我的 RAG 代理包装在 MCP 服务器中",
+  "Quiche Browser Now Defaults to No-AI Web Search Results": "Quiche 浏览器现在默认为非 AI 网络搜索结果",
+  "Your employees are pasting secrets into ChatGPT & Co-pilot & Claude & DeepSeek? Here's how to actually stop it.": "您的员工正在将秘密粘贴到 ChatGPT & Co-pilot & Claude & DeepSeek 中？这是实际阻止它的方法。",
+  "Mitigating OTA Update Chaos with AI Agents: Architecting Resilient Developer Workflows": "使用 AI 代理缓解 OTA 更新混乱：构建弹性开发人员工作流程",
+  "Source: UK robotics startup Humanoid raised $150M in the first tranche of a Series A at a $1.2B pre-money valuation and seeks another $80M-$100M by September (Rocket Drew/The Information)": "资料来源：英国机器人初创公司 Humanoid 在 A 轮第一轮融资中以 1.2B 美元的投前估值筹集了 1.5 亿美元，并在 9 月份寻求另外 8000 万至 1 亿美元的融资（Rocket Drew/The Information）",
+  "Dithering: ‘Apple Sues OpenAI’": "犹豫不决：“苹果起诉 OpenAI”",
+  "A White House teleprompter operator reportedly won big betting on presidential speeches": "据报道，白宫提词器操作员赢得了总统演讲的大赌注",
+  "The Little Book of Reinforcement Learning": "强化学习小书",
+  "'Likweli': A new monkey species discovered in the Congo Basin": "“Likweli”：刚果盆地发现的一种新猴种",
+  "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning": "Ring-Zero：将零 RL 扩展到万亿个参数以进行紧急推理",
+  "Abstracting Effects with Continuations": "用延续抽象效果",
+  "Linus Torvalds on LLM usage in kernel development": "Linus Torvalds 谈 LLM 在内核开发中的应用"
 }
