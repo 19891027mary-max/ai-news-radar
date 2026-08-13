@@ -34894,5 +34894,11 @@
   "Sources: the White House is expected to expand its AI oversight framework in the coming months to cover open models once they reach frontier capabilities (Hugo Lowell/Wired)": "资料来源：预计白宫将在未来几个月内扩大其人工智能监督框架，以覆盖开放模型，一旦它们达到前沿能力（Hugo Lowell/Wired）",
   "Twitch says it intends to use videos streamed on its platform to help train Amazon's generative AI models and tells creators how to opt out (Amanda Silberling/TechCrunch)": "Twitch 表示打算使用在其平台上播放的视频来帮助训练亚马逊的生成人工智能模型，并告诉创作者如何选择退出（Amanda Silberling/TechCrunch）",
   "Process as a Proxy for Motivation": "流程作为激励的代表",
-  "Why Target Common Lisp for Code Generation?": "为什么要以 Common Lisp 为目标来生成代码？"
+  "Why Target Common Lisp for Code Generation?": "为什么要以 Common Lisp 为目标来生成代码？",
+  "Context is the scarce resource — and your AI still can't see your website": "上下文是稀缺资源——而你的人工智能仍然看不到你的网站",
+  "AI Agents Gone Rogue: How OpenAI, Anthropic & Meta Models Accidentally Hacked Real Companies in 2026 — and What Claude Code Auto Mode Does About It": "AI 代理失控：OpenAI、人择模型和元模型如何在 2026 年意外入侵真实公司 — 以及 Claude Code 自动模式对此有何作用",
+  "5 MCP Pain Points Every Developer Hits (And How a 50KB CLI Fixes Them)": "每个开发人员都会遇到的 5 个 MCP 痛点（以及 50KB CLI 如何解决它们）",
+  "Why BEAM Is a Good Memory Benchmark for AI Agents": "为什么 BEAM 是 AI 代理的良好内存基准",
+  "Your Custom AI App Is the New Security Perimeter: Why RAG and Internal Chatbots Need Real Guardrails": "您的定制 AI 应用程序是新的安全边界：为什么 RAG 和内部聊天机器人需要真正的护栏",
+  "Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines": "CP/M、MSX-DOS 和 MS-DOS 上的 Turbo Pascal – 适用于小型机器的 Pascal"
 }
