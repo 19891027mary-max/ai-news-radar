@@ -35419,5 +35419,9 @@
   "Why console.log Isn't Enough When Building AI Agents": "为什么构建 AI 代理时 console.log 还不够",
   "Why Making AI Answer Faster Is Worth $1.5 Billion": "为什么让 AI 更快地给出答案价值 15 亿美元",
   "Show Dev: The Ghost in the Machine: Navigating Connection Errors in Distributed AI Systems": "Show Dev：机器中的幽灵：分布式人工智能系统中的连接错误导航",
-  "Multiple redirect URIs and token refresh for OAuth apps": "OAuth 应用程序的多个重定向 URI 和令牌刷新"
+  "Multiple redirect URIs and token refresh for OAuth apps": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
+  "Claude Fable 5 Having Fun": "克劳德寓言5 玩得开心",
+  "Shaving a second off a real-time speech-to-LLM pipeline in Electron": "在 Electron 中缩短实时语音到 LLM 流程的时间",
+  "\"I built a portable memory layer for AI agents so you don't have to\"": "“我为人工智能代理构建了一个便携式存储层，因此您不必这样做”",
+  "Why tech bosses keep sharing their manifestos about AI": "为什么科技巨头们不断分享他们关于人工智能的宣言"
 }
