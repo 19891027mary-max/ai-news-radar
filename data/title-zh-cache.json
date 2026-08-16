@@ -35884,5 +35884,12 @@
   "TTFT is not TTFB: what 45 AI APIs measured from 4 regions actually show": "TTFT 不是 TTFB：从 4 个地区测量的 45 个 AI API 实际显示了什么",
   "Your MCP agent re-sends 7,000 tokens of tool schemas on every turn": "您的 MCP 代理每次都会重新发送 7,000 个工具模式令牌",
   "OpenAI reportedly disbanded its preparedness team": "据报道 OpenAI 解散了其准备团队",
-  "Stop Turning every purchase into a tip request": "停止将每次购买变成小费请求"
+  "Stop Turning every purchase into a tip request": "停止将每次购买变成小费请求",
+  "AI Can Find the Failure. Who Decides What the Fix Should Be?": "人工智能可以找到失败之处。谁来决定修复内容？",
+  "How VIDRAFT Hit 510.58 TPS on Gemma-4: A Deep Dive into \"The First Gemma Challenge\" Win": "VIDRAFT 如何在 Gemma-4 上达到 510.58 TPS：深入探讨“第一个 Gemma 挑战”胜利",
+  "Shipping Assumptions: A Reliability Stack for AI-Generated Code": "运输假设：人工智能生成代码的可靠性堆栈",
+  "Designing an Honest “Unlimited” Generative AI Product: Credits, Queues, and Fair Use": "设计诚实的“无限”生成人工智能产品：积分、队列和合理使用",
+  "You can't trust assembly an AI wrote. Here's the 3-command gate.": "你不能相信人工智能编写的程序集。这是 3 命令门。",
+  "We catalogued 55+ AI-agent failures in low-level code — and shipped 124 verified skills to fix them": "我们对低级代码中的 55 多个 AI 代理故障进行了分类，并提供了 124 项经过验证的技能来修复它们",
+  "Kyiv blows up biggest Wildberries hub in drone attack": "基辅在无人机袭击中炸毁了最大的野莓中心"
 }
