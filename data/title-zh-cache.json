@@ -36615,5 +36615,10 @@
   "Gardner police discontinue Flock cameras as license plate readers face scrutiny": "由于车牌读取器面临审查，加德纳警方停止使用 Flock 摄像头",
   "Rick Scott Walked Away from $1.7B Health Care Fraud Case, Then Got a Senate Seat": "Rick Scott 摆脱了 $1.7B 医疗保健欺诈案，然后获得了参议院席位",
   "Collaborative Human Agent Protocol (CHAP)": "协作人工代理协议 (CHAP)",
-  "Manabu Kosaka's Handmade Paper Sculptures": "小坂学的手工纸雕"
+  "Manabu Kosaka's Handmade Paper Sculptures": "小坂学的手工纸雕",
+  "I Built a SaaS. Then I Asked ChatGPT to Recommend It. It Had Never Heard of Me.": "我建立了一个 SaaS。然后我请ChatGPT推荐它。它从未听说过我。",
+  "Zero Dependencies, 250KB, 486 Tests: What I Learned Building an MCP Client": "零依赖性、250KB、486 次测试：我在构建 MCP 客户端时学到了什么",
+  "How I actually eval AI code review tools (no vendor numbers)": "我如何实际评估人工智能代码审查工具（无供应商编号）",
+  "I wrote a test for prompt injection. It passed while the attack worked.": "我编写了一个提示注入测试。当攻击起作用时它就过去了。",
+  "The Future of CSS: Target Multiple Classes with the Class Prefix Selector": "CSS 的未来：使用类前缀选择器定位多个类"
 }
