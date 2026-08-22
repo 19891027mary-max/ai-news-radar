@@ -37242,5 +37242,12 @@
   "Claude wins out in major user satisfaction survey, beating Gemini and ChatGPT — but it's bad news for Grok and Siri": "Claude 在主要用户满意度调查中获胜，击败了 Gemini 和 ChatGPT，但这对 Grok 和 Siri 来说是个坏消息",
   "Apollo finds AI is hitting paychecks rather than payrolls": "阿波罗发现人工智能正在支付薪水而不是工资单",
   "China’s AI and chip firms are handing out shares to keep their engineers": "中国的人工智能和芯片公司正在发放股票以留住工程师",
-  "A look at the narrowing US-China AI gap, as a spate of compelling, low-cost releases makes Chinese AI models increasingly attractive to businesses (Bloomberg)": "看看不断缩小的中美人工智能差距，一系列引人注目的低成本发布使中国人工智能模型对企业越来越有吸引力（彭博社）"
+  "A look at the narrowing US-China AI gap, as a spate of compelling, low-cost releases makes Chinese AI models increasingly attractive to businesses (Bloomberg)": "看看不断缩小的中美人工智能差距，一系列引人注目的低成本发布使中国人工智能模型对企业越来越有吸引力（彭博社）",
+  "New MCP Roadmap": "新 MCP 路线图",
+  "RAG explicado: cómo darle a un LLM tu propia información": "RAG 解释：如何向 LLM 提供您自己的信息",
+  "Enterprise vibe coding: the governance framework for shipping AI-generated apps to production": "企业氛围编码：将人工智能生成的应用程序交付到生产环境的治理框架",
+  "If your MCP server uses OAuth, every directory thinks it has zero tools": "如果您的 MCP 服务器使用 OAuth，则每个目录都认为它有零个工具",
+  "Why Your AI Agent Architecture Is Failing: Bridging Security Holes, Planning Failures, and Real-World Dev Workflows": "为什么您的 AI 代理架构失败：弥合安全漏洞、规划失败和现实世界的开发工作流程",
+  "Same Model, Two Speeds: A Friendly Tour of LLM Inference Engines": "同一模型，两种速度：LLM推理机友好之旅",
+  "Before you go back to school, set up these 5 ChatGPT tools — your future self will thank you": "在您返回学校之前，设置这 5 个 ChatGPT 工具 — 未来的您会感谢您"
 }
