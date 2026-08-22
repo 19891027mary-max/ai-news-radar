@@ -37171,5 +37171,8 @@
   "Zig’s io.threaded is neat": "Zig 的 io.threaded 很简洁",
   "AWS Releases Aws-Bench to Evaluate Agents on Cloud Tasks": "AWS 发布 Aws-Bench 来评估云任务上的代理",
   "I went into testing this portable, AI-powered personal trainer with a skeptical mindset — but came out seriously impressed at its movement mapping technology": "我抱着怀疑的心态开始测试这款便携式、人工智能驱动的私人教练，但它的运动映射技术给我留下了深刻的印象",
-  "Run 290B+ frontier MoE models locally on your gaming PC": "在您的游戏 PC 上本地运行 290B+ 前沿 MoE 模型"
+  "Run 290B+ frontier MoE models locally on your gaming PC": "在您的游戏 PC 上本地运行 290B+ 前沿 MoE 模型",
+  "grow-hack: An AI Pipeline That Turns Any GitHub Repo Into Professional Docs in Under a Minute": "Growth-hack：一个 AI 管道，可在一分钟内将任何 GitHub 存储库转变为专业文档",
+  "Autonomous AI Study Notes: A Multi-Agent System with LangGraph and Streamlit": "自主人工智能学习笔记：采用 LangGraph 和 Streamlit 的多代理系统",
+  "Optimizing meshoptimizer to process billions of triangles in minutes (2025)": "优化网格优化器以在几分钟内处理数十亿个三角形（2025）"
 }
